@@ -1,0 +1,12 @@
+.image {
+ width: 200px;
+ height: 200px;
+}
+
+.hiss{
+  display: none;
+}
+
+.bark{
+  display: none;
+}
